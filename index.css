@@ -1,6 +1,7 @@
 div{
     border-radius: 4px;
 }
+
 #main
 {
     z-index: 1;
@@ -42,13 +43,97 @@ div{
     margin-left: -150px;
     font-size: 30px;
     margin-top: auto;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-thickness: 2px;
 }
 
 #methead1{
     float: left;
-   margin-top: 40px;
+   margin-top: -100px;
    margin-left: 20px;
    padding-right: 10px;
-   text-align: justify;
+   text-align: left;
    font-size: 17px;
+}
+
+.left{
+    float: right;
+    padding-left: 60%;
+    margin-right: 3%;
+    border-radius: 200%;
+
+}
+
+#head2{
+    float: left;
+    margin-left: 20px;
+    font-size: 30px;
+    margin-top: auto;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-thickness: 2px;
+}
+
+#list1{
+    padding-right: 55%;
+    float: left;
+    font-size: 17px;
+    margin-top: 1%;
+    margin-left: 140px;
+}
+
+#head3{
+    float: left;
+    margin-left: 20px;
+    font-size: 30px;
+    margin-top: auto;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-thickness: 2px;
+}
+
+
+#list2{
+    padding-right: 55%;
+    float: left;
+    font-size: 17px;
+    margin-top: 1%;
+    margin-left: 140px;
+}
+
+#head4{
+    float: left;
+    margin-left: 20px;
+    font-size: 30px;
+    margin-top: auto;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-thickness: 2px;
+}
+
+#list3{
+    padding-right: 55%;
+    float: left;
+    font-size: 17px;
+    margin-top: 1%;
+    margin-left: 140px;
+}
+
+#head5{
+    float: left;
+    margin-left: 20px;
+    font-size: 30px;
+    margin-top: auto;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-thickness: 2px;
+}
+
+#list4{
+    padding-right: 55%;
+    float: left;
+    font-size: 17px;
+    margin-top: 4%;
+    margin-left: -1%;
 }
